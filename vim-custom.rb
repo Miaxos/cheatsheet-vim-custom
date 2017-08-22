@@ -26,6 +26,7 @@ cheatsheet do
       name 'Mix-indent'
       notes <<-'END'
         To fix the indent, use *gg=G*
+        [Explanation](https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces)
       END
     end
   end
